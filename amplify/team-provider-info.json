@@ -10,6 +10,11 @@
       "StackName": "amplify-que-main-155908",
       "StackId": "arn:aws:cloudformation:us-east-1:429405375849:stack/amplify-que-main-155908/73bb33e0-5b90-11ed-87a6-0a5cdd118105",
       "AmplifyAppId": "dsigd635fca8c"
+    },
+    "categories": {
+      "auth": {
+        "QueApp": {}
+      }
     }
   }
 }
