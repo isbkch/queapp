@@ -1,15 +1,15 @@
 {
-  "dev": {
+  "main": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-que-dev-115224-authRole",
-      "UnauthRoleArn": "arn:aws:iam::429405375849:role/amplify-que-dev-115224-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::429405375849:role/amplify-que-dev-115224-authRole",
+      "AuthRoleName": "amplify-que-main-155908-authRole",
+      "UnauthRoleArn": "arn:aws:iam::429405375849:role/amplify-que-main-155908-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::429405375849:role/amplify-que-main-155908-authRole",
       "Region": "us-east-1",
-      "DeploymentBucketName": "amplify-que-dev-115224-deployment",
-      "UnauthRoleName": "amplify-que-dev-115224-unauthRole",
-      "StackName": "amplify-que-dev-115224",
-      "StackId": "arn:aws:cloudformation:us-east-1:429405375849:stack/amplify-que-dev-115224/83530360-5b8f-11ed-8202-120be894131f",
-      "AmplifyAppId": "d1wrgl2xf1u0nm"
+      "DeploymentBucketName": "amplify-que-main-155908-deployment",
+      "UnauthRoleName": "amplify-que-main-155908-unauthRole",
+      "StackName": "amplify-que-main-155908",
+      "StackId": "arn:aws:cloudformation:us-east-1:429405375849:stack/amplify-que-main-155908/73bb33e0-5b90-11ed-87a6-0a5cdd118105",
+      "AmplifyAppId": "dsigd635fca8c"
     }
   }
 }
