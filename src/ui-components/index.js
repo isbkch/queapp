@@ -33,3 +33,4 @@ export { default as Ampligram } from "./Ampligram";
 export { default as Features4x1 } from "./Features4x1";
 export { default as ActionCard } from "./ActionCard";
 export { default as studioTheme } from "./studioTheme";
+export { default as Question } from "./Question";
