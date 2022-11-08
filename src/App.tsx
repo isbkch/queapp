@@ -13,19 +13,13 @@ function App() {
             Settle debates, get answers
           </div>
         </div>
-        <div className="flex flex-row space-x-2 my-4 items-center">
-          <input
-            type="email"
-            placeholder="Email"
-            className="p-2 w-full bg-stone-800 border border-stone-600 rounded-xl focus:outline-none focus:ring-violet-600 focus:border-violet-600 focus:ring-1"
-          />
-          <button className="bg-gradient-to-b from-violet-800 to-violet-900 py-2 px-8 rounded-full">
-            Subscribe
-          </button>
-        </div>
+
         <div className="text-stone-400 text-xl font-300 mt-2 font-sans text-center">
-            Coming soon... Subscribe to get notified
-          </div>
+          Follow us to get notified when we launch
+
+          <a href="https://twitter.com/iLyas_in_cloud" className="text-stone-400 text-xl font-400 mt-2 font-sans text-center">@iLyas_in_cloud</a>
+          <a href="https://twitter.com/ilias_yahia" className="text-stone-400 text-xl font-300 mt-2 font-sans text-center">@ilias_yahia</a>
+        </div>
         <div className="text-gray-400 text-sm font-300 mt-1 font-sans text-center">
           Built with ❤️ in Public{" "}
           <span className="text-violet-400">#BuildInPublic</span>
