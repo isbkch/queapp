@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@aws-amplify/ui-react": "^3.5.11",
     "@julr/unocss-preset-forms": "^0.0.2",
     "date-fns": "^2.29.3",
     "react": "^18.2.0",
